@@ -1,27 +1,27 @@
 const todosData = [
   {
     id: 1,
-    text: "Take out the trash",
+    text: "Put key in ignition",
     completed: true
   },
   {
     id: 2,
-    text: "Grocery shopping",
+    text: "Turn they key",
     completed: false
   },
   {
     id: 3,
-    text: "Clean gecko tank",
+    text: "Release the handbrake",
     completed: false
   },
   {
     id: 4,
-    text: "Mow lawn",
+    text: "Engage the gear lever",
     completed: true
   },
   {
     id: 5,
-    text: "Catch up on Arrested Development",
+    text: "Press the accelerator",
     completed: false
   }
 ];
